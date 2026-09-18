@@ -1,5 +1,3 @@
 <div align="center">
-
-![ieuforu](profile.png)
-
+    <img src="./profile.png" width="100%" alt="ieuforu" />
 </div>
